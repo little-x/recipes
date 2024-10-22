@@ -3,4 +3,7 @@
 :0
 ## instructions
 hungry
-ingredients
+## ingredients
+avocado
+lime
+salt
